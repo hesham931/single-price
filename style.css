@@ -88,7 +88,8 @@ h3.why_us{
 @media screen and (max-width:980px)
 {
     .element{
-        margin-top:150px
+        margin-top:150px;
+        width:150%;
     }
     .right{
         width:100%;
