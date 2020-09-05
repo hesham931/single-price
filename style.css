@@ -91,6 +91,7 @@ h3.why_us{
         margin-top:150px;
         width:70%;
         height:150%;
+        padding:50px;
     }
     .element h1{
         font-size:25px
@@ -105,9 +106,10 @@ h3.why_us{
         width:100%;
         height:110%;
         position:relative;
-        top:20%;
+        top:17%;
         margin-right:-30px;
-        margin-bottom:150px
+        margin-bottom:150px;
+        padding:50px;
     }
     .left{
         clear:both;
@@ -115,6 +117,7 @@ h3.why_us{
         top:20px;
         margin-left:-30px;
         text-align:center;
+        padding:50px;
     }
     div.left p{
         font-size:25px
